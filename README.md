@@ -4,8 +4,9 @@ SH PokeInfo é um projeto para exibir informações de pokemons de bulbasaur (id
 de identificação do pokemon por nome ou id através de um formulário ou um botão que gera um pokémon aleatŕoio.
 
 
-## Recursos Principais
+## Recursos Utilizados
 
+- PokeApi( https://pokeapi.co/ )
 - Node
 - HTML / CSS / JS
 - ReactJS
