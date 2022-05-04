@@ -1,0 +1,1 @@
+O diretório dist reune os arquivos para a versão de distribuição/ produção da aplicação
